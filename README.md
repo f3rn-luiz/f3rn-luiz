@@ -2,7 +2,7 @@
 
 ## 👤 Sobre mim
 
-Sou um desenvolvedor e técnico apaixonado por buscar e criar soluções, sempre no meio de novos desafios e correndo atrás para acompanhar as tecnologias, tanto no front-end quanto no back-end. Atualmente focado em aprimorar minhas habilidades técnicas e em amadurescer meu eu profissional e pessoal. Evoluindo constantemente 🚀
+Sou um desenvolvedor e técnico apaixonado por buscar e criar soluções, sempre no meio de novos desafios e correndo atrás para acompanhar as tecnologias, tanto no front-end quanto no back-end. Atualmente focado em aprimorar minhas habilidades técnicas e em amadurecer meu eu profissional e pessoal. Evoluindo constantemente 🚀
 
 -   🏢 Atualmente trabalho como **Programador Front-end** na **Agilizae Tecnologia** (desde outubro/2023)
 -   📚 Estudante de **Ciência da Computação** na **Universidade Cruzeiro do Sul** (2024-2027)
